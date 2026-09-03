@@ -113,5 +113,6 @@ NDSI-based classification can also detect seasonal snow outside the glacier and 
 ##  Author
 
 **Aditya Pal**
+
 Department of Geography (VISVA-BHARATI)
 
