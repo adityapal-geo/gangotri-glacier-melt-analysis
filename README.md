@@ -83,7 +83,7 @@ Output:
 gangotri_glacier_melt.mp4
 ```
 
-## 💻 Run the Project
+##  Run the Project
 
 Install dependencies:
 
