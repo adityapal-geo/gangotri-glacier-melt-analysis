@@ -14,7 +14,7 @@ from IPython.display import Video, display
 
 # ---- 2. Authenticate & initialize 
 ee.Authenticate()
-ee.Initialize(project='promising-idea-432505-i4')   # change to your GEE project id if different
+ee.Initialize('Gee Id')   # change to your GEE project id if different
 
 # ---- 3. AOI: Gangotri Glacier, Uttarakhand 
 LON_MIN, LAT_MIN, LON_MAX, LAT_MAX = 78.95, 30.85, 79.30, 31.05
