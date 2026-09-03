@@ -105,12 +105,12 @@ gangotri_glacier_animation.py
 ```
 
 
-## ⚠️ Limitations
+##  Limitations
 
 NDSI-based classification can also detect seasonal snow outside the glacier and may miss debris-covered ice. Therefore, the estimated area should be considered **NDSI-derived snow/ice extent** and should be validated with glacier boundaries or additional datasets for publication-quality analysis.
 
 
-## 👨‍💻 Author
+##  Author
 
 **Aditya Pal**
 Department of Geography (VISVA-BHARATI)
